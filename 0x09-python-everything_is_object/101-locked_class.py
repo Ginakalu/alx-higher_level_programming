@@ -9,8 +9,4 @@ class LockedClass:
     """
 
     __slots__ = ["first_name"]
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-P
+
